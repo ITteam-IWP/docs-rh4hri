@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-xplgi3.juragan89.online/sitemap.xml
